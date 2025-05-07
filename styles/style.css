@@ -3,6 +3,7 @@
     padding: 0;
     text-decoration: none;
     box-sizing: border-box;
+    list-style-type: none;
 }
 
 body {
@@ -108,4 +109,41 @@ body {
 
 .informacoes__imagem {
     margin-top: 95px;
+    margin-bottom: 151px;
+}
+
+.informacoes__imagem__meio {
+    margin-top: 95px;
+    margin-bottom: 226px;
+}
+
+.informacoes__imagem__fim {
+    margin-top: 95px;
+    margin-bottom: 264px;
+}
+
+.dispositivos {
+    text-align: center;
+    color: white;
+    margin-bottom: 165px;
+}
+
+.dispositivos__subtitulo {
+    font-size: 3em;
+    font-weight: 700;
+    font-family: 'Inter';
+    margin-bottom: 40px;
+}
+
+.dispositivos__conjunto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 68px;
+}
+
+.dispositivos__nome {
+    font-size: 2em;
+    font-weight: 700;
+    font-family: 'Inter';
 }
