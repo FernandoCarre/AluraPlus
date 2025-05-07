@@ -7,11 +7,12 @@
 }
 
 body {
-    background-image: url('/img/Background.png');
+    background-color: #00030C;
+    background-image: url('../img/Background.png');
     background-repeat: no-repeat;
     background-size: contain;
     height: 100vh;
-    background-color: #00030C;
+    
 }
 
 .apresentacao__conteudo {
