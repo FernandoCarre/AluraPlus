@@ -80,10 +80,11 @@ body {
     flex-direction: row-reverse;
     color: white;
     align-items: center;
+    justify-content: center;
 }
 
 .informacoes__direcionamento {
-    margin-right: 120px;
+    margin-right: 100px;
     margin-left: 69px;
 }
 
@@ -100,5 +101,11 @@ body {
     font-weight: 400;
     font-family: 'Inter';
     color: #F9F9F9;
-    
+    width: 588px;
+    opacity: 0.8;
+    margin-bottom: 32px;
+}
+
+.informacoes__imagem {
+    margin-top: 95px;
 }
