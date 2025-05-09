@@ -151,7 +151,7 @@ body {
 }
 
 .rodape {
-    padding-bottom: 100px;
+    padding-bottom: 20px;
 }
 
 .rodape__conteudo {
@@ -314,7 +314,7 @@ body {
 
     /* Responsividade Rodapé */
     .rodape {
-        padding-bottom: 0;
+        padding-bottom: 10px;
         width: 100%;
         padding-left: 25px;
         padding-right: 25px;
