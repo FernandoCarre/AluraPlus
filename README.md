@@ -2,7 +2,7 @@
 
 # AluraPlus
 
-"Qualquer semelhança com a Casa do Código é mera coincidência", já diria a Mônica, instrutora da Alura. AluraPlus é um site de livros digitais onde é possível visualizar e interagir com eles num carrossel.
+AluraPlus é uma plataforma de cursos da Alura semelhante ao Netflix em que é possível assinar 3 planos: o plano Plus, o plano Linguas e o Combo que é a junção do Plus com o Linguas.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
